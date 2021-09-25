@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631131430 source:c:\users\wanja\onedrive\desktop\c_language\introduction-to_c\static_modifiers\add.c
+
+1631131326 source:c:\users\wanja\onedrive\desktop\c_language\introduction-to_c\static_modifiers\main.c
+	<stdio.h>
+	<stdlib.h>
+
